@@ -1,1 +1,2 @@
-Ejemplo line modificada
+﻿Ejemplo line modificada
+Actualizado el archivo a UTF-8 para ñ y acentos
