@@ -1,2 +1,0 @@
-# Code
-Archivos de configuración
